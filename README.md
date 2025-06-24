@@ -1,2 +1,3 @@
 # setting-up-openCV-and-showing-
 using Google Co lab 
+Our project aims to conduct a comprehensive landslide analysis along critical road networks in Uttarakhand, focusing on identifying existing slide zones, assessing landslide susceptibility, and monitoring ground deformation. This analysis is crucial for ensuring road safety, optimizing maintenance strategies for the Uttarakhand Public Works Department, and informing future infrastructure development in this geologically fragile and tectonically active Himalayan region. The specified data products are meticulously selected to provide the necessary spatial, temporal, and thematic information for a robust and multi-faceted assessment.
